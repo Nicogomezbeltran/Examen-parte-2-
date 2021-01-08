@@ -18,6 +18,7 @@ Y despues de esto el ejercicio se ha quedado tal que asi:
 
 
 ***Ejercicio Resuelto***
+![ejercicio 2 resuelto](https://user-images.githubusercontent.com/73166385/104013143-57db8e80-51b1-11eb-87b0-5d23bdd9b99a.PNG)
 
  
  
