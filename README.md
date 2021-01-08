@@ -11,6 +11,14 @@
   
 * Despues he entrado en visual studio code y he colocado las carptetas de las imagenes, he abierto un archivo.html y he pegado el css junto con el codigo. 
 A continuación, he puesto los comandos para que las imagenes se vieran bien.
+
+Y despues de esto el ejercicio se ha quedado tal que asi:
+
+  Link del codigo final con el css incluido: https://github.com/Nicogomezbeltran/Examen-parte-2-/blob/main/EXAMEN%20PARTE%202/Examen%202.html
+
+
+***Ejercicio Resuelto***
+
  
  
 
