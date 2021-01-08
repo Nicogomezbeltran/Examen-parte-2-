@@ -6,5 +6,21 @@
 
 **¿Que he hecho?**
 * Para empezar he descargado el paquete de las imagenes que iba a necesitar para hacer el ejercicio, despues de esto, he copiado el css.
+
+Link del CSS: https://github.com/Nicogomezbeltran/Examen-parte-2-/blob/main/EXAMEN%20PARTE%202/CSS.txt
+  
+* Despues he entrado en visual studio code y he colocado las carptetas de las imgagenes, he abierto un archivo.html y he pegado el css junto con el codigo. 
+A continuación, he puesto los comandos para que las imagenes se vieran bien.
+ 
+ 
+
+
    
-   Link del css: https://github.com/Nicogomezbeltran/Examen-parte-2-/blob/main/EXAMEN%20PARTE%202/CSS.txt
+   
+   
+   
+   
+   
+   
+   
+
