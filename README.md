@@ -6,4 +6,5 @@
 
 **¿Que he hecho?**
 * Para empezar he descargado el paquete de las imagenes que iba a necesitar para hacer el ejercicio, despues de esto, he copiado el css.
-    Link del css: https://github.com/Nicogomezbeltran/Examen-parte-2-/blob/main/EXAMEN%20PARTE%202/CSS.txt
+   
+  Link del css: https://github.com/Nicogomezbeltran/Examen-parte-2-/blob/main/EXAMEN%20PARTE%202/CSS.txt
